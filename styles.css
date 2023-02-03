@@ -1,0 +1,31 @@
+* {
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  
+}
+
+p, h1, h2, ol, a {
+  color: aliceblue;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+.ingredients {
+  color: green;
+}
